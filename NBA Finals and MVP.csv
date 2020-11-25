@@ -1,0 +1,70 @@
+Western Champion,Eastern Champion,Western Wins,Western Loss,Western winrate,Eastern Win,Eastern Loss,Eastern winrate,NBA Champion,NBA Vice-Champion,MVP Team,Western MVP,Eastern MVP,Winrate ratio,Western victory
+Minneapolis Lakers,Syracuse Nationals,51,17,"0,75",51,13,"0,796875",Minneapolis Lakers,Syracuse Nationals,N/A,FAUX,FAUX,"-0,046875",VRAI
+Rochester Royals,New York Knicks,41,27,"0,602941176470588",36,30,"0,545454545454545",Rochester Royals,New York Knicks,N/A,FAUX,FAUX,"0,057486631016043",VRAI
+Minneapolis Lakers,New York Knicks,40,26,"0,606060606060606",37,29,"0,560606060606061",Minneapolis Lakers,New York Knicks,N/A,FAUX,FAUX,"0,045454545454546",VRAI
+Minneapolis Lakers,New York Knicks,48,22,"0,685714285714286",47,23,"0,671428571428571",Minneapolis Lakers,New York Knicks,N/A,FAUX,FAUX,"0,014285714285714",VRAI
+Minneapolis Lakers,Syracuse Nationals,46,36,"0,560975609756098",42,30,"0,583333333333333",Minneapolis Lakers,Syracuse Nationals,N/A,FAUX,FAUX,"-0,022357723577236",VRAI
+Fort Wayne Pistons,Syracuse Nationals,43,29,"0,597222222222222",43,29,"0,597222222222222",Syracuse Nationals,Fort Wayne Pistons,N/A,FAUX,FAUX,0,FAUX
+Fort Wayne Pistons,Philadelphia Warriors,37,35,"0,513888888888889",45,27,"0,625",Philadelphia Warriors,Fort Wayne Pistons,Saint Louis Hawks,FAUX,FAUX,"-0,111111111111111",FAUX
+St. Louis Hawks,Boston Celtics,34,38,"0,472222222222222",44,28,"0,611111111111111",Boston Celtics,St. Louis Hawks,Boston Celtics,FAUX,VRAI,"-0,138888888888889",FAUX
+St. Louis Hawks,Boston Celtics,41,38,"0,518987341772152",49,23,"0,680555555555556",St. Louis Hawks,Boston Celtics,Boston Celtics,FAUX,VRAI,"-0,161568213783404",VRAI
+Minneapolis Lakers,Boston Celtics,33,39,"0,458333333333333",52,20,"0,722222222222222",Boston Celtics,Minneapolis Lakers,Saint Louis Hawks,FAUX,FAUX,"-0,263888888888889",FAUX
+St. Louis Hawks,Boston Celtics,46,29,"0,613333333333333",59,16,"0,786666666666667",Boston Celtics,St. Louis Hawks,Philadelphia Warriors,FAUX,FAUX,"-0,173333333333333",FAUX
+St. Louis Hawks,Boston Celtics,51,28,"0,645569620253165",57,22,"0,721518987341772",Boston Celtics,St. Louis Hawks,Boston Celtics,FAUX,VRAI,"-0,075949367088608",FAUX
+Los Angeles Lakers,Boston Celtics,54,26,"0,675",60,20,"0,75",Boston Celtics,Los Angeles Lakers,Boston Celtics,FAUX,VRAI,"-0,075",FAUX
+Los Angeles Lakers,Boston Celtics,53,27,"0,6625",58,22,"0,725",Boston Celtics,Los Angeles Lakers,Boston Celtics,FAUX,VRAI,"-0,0625",FAUX
+San Francisco Warriors,Boston Celtics,48,32,"0,6",59,21,"0,7375",Boston Celtics,San Francisco Warriors,Cincinnati Royals,FAUX,FAUX,"-0,1375",FAUX
+Los Angeles Lakers,Boston Celtics,49,31,"0,6125",62,18,"0,775",Boston Celtics,Los Angeles Lakers,Boston Celtics,FAUX,VRAI,"-0,1625",FAUX
+Los Angeles Lakers,Boston Celtics,45,35,"0,5625",54,26,"0,675",Boston Celtics,Los Angeles Lakers,Philadelphia 76ers,FAUX,FAUX,"-0,1125",FAUX
+San Francisco Warriors,Philadelphia 76ers,44,37,"0,54320987654321",68,13,"0,839506172839506",Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,FAUX,VRAI,"-0,296296296296296",FAUX
+Los Angeles Lakers,Boston Celtics,52,30,"0,634146341463415",54,28,"0,658536585365854",Boston Celtics,Los Angeles Lakers,Philadelphia 76ers,FAUX,FAUX,"-0,024390243902439",FAUX
+Los Angeles Lakers,Boston Celtics,55,27,"0,670731707317073",48,34,"0,585365853658537",Boston Celtics,Los Angeles Lakers,Baltimore Bullets,FAUX,FAUX,"0,085365853658537",FAUX
+Los Angeles Lakers,New York Knicks,46,36,"0,560975609756098",60,22,"0,731707317073171",New York Knicks,Los Angeles Lakers,New York Knicks,FAUX,VRAI,"-0,170731707317073",FAUX
+Milwaukee Bucks,Baltimore Bullets,66,16,"0,804878048780488",42,40,"0,51219512195122",Milwaukee Bucks,Baltimore Bullets,Milwaukee Bucks,VRAI,FAUX,"0,292682926829268",VRAI
+Los Angeles Lakers,New York Knicks,69,13,"0,841463414634146",48,34,"0,585365853658537",Los Angeles Lakers,New York Knicks,Milwaukee Bucks,FAUX,FAUX,"0,25609756097561",VRAI
+Los Angeles Lakers,New York Knicks,60,22,"0,731707317073171",57,25,"0,695121951219512",New York Knicks,Los Angeles Lakers,Boston Celtics,FAUX,FAUX,"0,036585365853659",FAUX
+Milwaukee Bucks,Boston Celtics,59,23,"0,719512195121951",56,26,"0,682926829268293",Boston Celtics,Milwaukee Bucks,Milwaukee Bucks,VRAI,FAUX,"0,036585365853659",FAUX
+Golden State Warriors,Washington Bullets,48,34,"0,585365853658537",60,22,"0,731707317073171",Golden State Warriors,Washington Bullets,Buffalo Braves,FAUX,FAUX,"-0,146341463414634",VRAI
+Phoenix Suns,Boston Celtics,42,40,"0,51219512195122",54,28,"0,658536585365854",Boston Celtics,Phoenix Suns,Los Angeles Lakers,FAUX,FAUX,"-0,146341463414634",FAUX
+Portland Trail Blazers,Philadelphia 76ers,49,33,"0,597560975609756",50,32,"0,609756097560976",Portland Trail Blazers,Philadelphia 76ers,Los Angeles Lakers,FAUX,FAUX,"-0,01219512195122",VRAI
+Seattle SuperSonics,Washington Bullets,47,35,"0,573170731707317",44,38,"0,536585365853659",Washington Bullets,Seattle SuperSonics,Portland Trail Blazers,FAUX,FAUX,"0,036585365853659",FAUX
+Seattle SuperSonics,Washington Bullets,52,30,"0,634146341463415",54,28,"0,658536585365854",Seattle SuperSonics,Washington Bullets,Houston Rockets,FAUX,FAUX,"-0,024390243902439",VRAI
+Los Angeles Lakers,Philadelphia 76ers,60,22,"0,731707317073171",59,23,"0,719512195121951",Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,VRAI,FAUX,"0,01219512195122",VRAI
+Houston Rockets,Boston Celtics,40,42,"0,487804878048781",62,20,"0,75609756097561",Boston Celtics,Houston Rockets,Philadelphia 76ers,FAUX,FAUX,"-0,268292682926829",FAUX
+Los Angeles Lakers,Philadelphia 76ers,57,25,"0,695121951219512",58,24,"0,707317073170732",Los Angeles Lakers,Philadelphia 76ers,Houston Rockets,FAUX,FAUX,"-0,01219512195122",VRAI
+Los Angeles Lakers,Philadelphia 76ers,58,24,"0,707317073170732",65,17,"0,792682926829268",Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,FAUX,VRAI,"-0,085365853658537",FAUX
+Los Angeles Lakers,Boston Celtics,54,28,"0,658536585365854",62,20,"0,75609756097561",Boston Celtics,Los Angeles Lakers,Boston Celtics,FAUX,VRAI,"-0,097560975609756",FAUX
+Los Angeles Lakers,Boston Celtics,62,20,"0,75609756097561",63,19,"0,768292682926829",Los Angeles Lakers,Boston Celtics,Boston Celtics,FAUX,VRAI,"-0,01219512195122",VRAI
+Houston Rockets,Boston Celtics,51,31,"0,621951219512195",67,15,"0,817073170731707",Boston Celtics,Houston Rockets,Boston Celtics,FAUX,VRAI,"-0,195121951219512",FAUX
+Los Angeles Lakers,Boston Celtics,65,17,"0,792682926829268",59,23,"0,719512195121951",Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,VRAI,FAUX,"0,073170731707317",VRAI
+Los Angeles Lakers,Detroit Pistons,62,20,"0,75609756097561",54,28,"0,658536585365854",Los Angeles Lakers,Detroit Pistons,Chicago Bulls,FAUX,FAUX,"0,097560975609756",VRAI
+Los Angeles Lakers,Detroit Pistons,57,25,"0,695121951219512",63,19,"0,768292682926829",Detroit Pistons,Los Angeles Lakers,Los Angeles Lakers,VRAI,FAUX,"-0,073170731707317",FAUX
+Portland Trail Blazers,Detroit Pistons,59,23,"0,719512195121951",59,23,"0,719512195121951",Detroit Pistons,Portland Trail Blazers,Los Angeles Lakers,FAUX,FAUX,0,FAUX
+Los Angeles Lakers,Chicago Bulls,58,24,"0,707317073170732",61,21,"0,74390243902439",Chicago Bulls,Los Angeles Lakers,Chicago Bulls,FAUX,VRAI,"-0,036585365853659",FAUX
+Portland Trail Blazers,Chicago Bulls,57,25,"0,695121951219512",67,15,"0,817073170731707",Chicago Bulls,Portland Trail Blazers,Chicago Bulls,FAUX,VRAI,"-0,121951219512195",FAUX
+Phoenix Suns,Chicago Bulls,62,20,"0,75609756097561",57,25,"0,695121951219512",Chicago Bulls,Phoenix Suns,Phoenix Suns,VRAI,FAUX,"0,060975609756098",FAUX
+Houston Rockets,New York Knicks,58,24,"0,707317073170732",57,25,"0,695121951219512",Houston Rockets,New York Knicks,Houston Rockets,VRAI,FAUX,"0,01219512195122",VRAI
+Houston Rockets,Orlando Magic,47,35,"0,573170731707317",57,25,"0,695121951219512",Houston Rockets,Orlando Magic,San Antonio Spurs,FAUX,FAUX,"-0,121951219512195",VRAI
+Seattle SuperSonics,Chicago Bulls,64,18,"0,780487804878049",72,10,"0,878048780487805",Chicago Bulls,Seattle SuperSonics,Chicago Bulls,FAUX,VRAI,"-0,097560975609756",FAUX
+Utah Jazz,Chicago Bulls,64,18,"0,780487804878049",69,13,"0,841463414634146",Chicago Bulls,Utah Jazz,Utah Jazz,VRAI,FAUX,"-0,060975609756098",FAUX
+Utah Jazz,Chicago Bulls,62,20,"0,75609756097561",62,20,"0,75609756097561",Chicago Bulls,Utah Jazz,Chicago Bulls,FAUX,VRAI,0,FAUX
+San Antonio Spurs,New York Knicks,37,13,"0,74",27,23,"0,54",San Antonio Spurs,New York Knicks,Utah Jazz,FAUX,FAUX,"0,2",VRAI
+Los Angeles Lakers,Indiana Pacers,67,15,"0,817073170731707",56,26,"0,682926829268293",Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,VRAI,FAUX,"0,134146341463415",VRAI
+Los Angeles Lakers,Philadelphia 76ers,56,26,"0,682926829268293",56,26,"0,682926829268293",Los Angeles Lakers,Philadelphia 76ers,Philadelphia 76ers,FAUX,VRAI,0,VRAI
+Los Angeles Lakers,New Jersey Nets,58,24,"0,707317073170732",52,30,"0,634146341463415",Los Angeles Lakers,New Jersey Nets,San Antonio Spurs,FAUX,FAUX,"0,073170731707317",VRAI
+San Antonio Spurs,New Jersey Nets,60,22,"0,731707317073171",49,33,"0,597560975609756",San Antonio Spurs,New Jersey Nets,San Antonio Spurs,VRAI,FAUX,"0,134146341463415",VRAI
+Los Angeles Lakers,Detroit Pistons,56,26,"0,682926829268293",54,28,"0,658536585365854",Detroit Pistons,Los Angeles Lakers,Minnesota Timberwolves,FAUX,FAUX,"0,024390243902439",FAUX
+San Antonio Spurs,Detroit Pistons,59,23,"0,719512195121951",54,28,"0,658536585365854",San Antonio Spurs,Detroit Pistons,Phoenix Suns,FAUX,FAUX,"0,060975609756098",VRAI
+Dallas Mavericks,Miami Heat,60,22,"0,731707317073171",52,30,"0,634146341463415",Miami Heat,Dallas Mavericks,Phoenix Suns,FAUX,FAUX,"0,097560975609756",FAUX
+San Antonio Spurs,Cleveland Cavaliers,58,24,"0,707317073170732",50,32,"0,609756097560976",San Antonio Spurs,Cleveland Cavaliers,Dallas Mavericks,FAUX,FAUX,"0,097560975609756",VRAI
+Los Angeles Lakers,Boston Celtics,57,25,"0,695121951219512",66,16,"0,804878048780488",Boston Celtics,Los Angeles Lakers,Los Angeles Lakers,VRAI,FAUX,"-0,109756097560976",FAUX
+Los Angeles Lakers,Orlando Magic,65,17,"0,792682926829268",59,23,"0,719512195121951",Los Angeles Lakers,Orlando Magic,Cleveland Cavaliers,FAUX,FAUX,"0,073170731707317",VRAI
+Los Angeles Lakers,Boston Celtics,57,25,"0,695121951219512",50,32,"0,609756097560976",Los Angeles Lakers,Boston Celtics,Cleveland Cavaliers,FAUX,FAUX,"0,085365853658537",VRAI
+Dallas Mavericks,Miami Heat,57,25,"0,695121951219512",58,24,"0,707317073170732",Dallas Mavericks,Miami Heat,Chicago Bulls,FAUX,FAUX,"-0,01219512195122",VRAI
+Oklahoma City Thunder,Miami Heat,47,19,"0,712121212121212",46,20,"0,696969696969697",Miami Heat,Oklahoma City Thunder,Miami Heat,FAUX,VRAI,"0,015151515151515",FAUX
+San Antonio Spurs,Miami Heat,58,24,"0,707317073170732",66,16,"0,804878048780488",Miami Heat,San Antonio Spurs,Miami Heat,FAUX,VRAI,"-0,097560975609756",FAUX
+San Antonio Spurs,Miami Heat,62,20,"0,75609756097561",54,28,"0,658536585365854",San Antonio Spurs,Miami Heat,Oklahoma City Thunder,FAUX,FAUX,"0,097560975609756",VRAI
+Golden State Warriors,Cleveland Cavaliers,67,15,"0,817073170731707",53,29,"0,646341463414634",Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,VRAI,FAUX,"0,170731707317073",VRAI
+Golden State Warriors,Cleveland Cavaliers,73,9,"0,890243902439024",57,25,"0,695121951219512",Cleveland Cavaliers,Golden State Warriors,Golden State Warriors,VRAI,FAUX,"0,195121951219512",FAUX
+Golden State Warriors,Cleveland Cavaliers,67,15,"0,817073170731707",51,31,"0,621951219512195",Golden State Warriors,Cleveland Cavaliers,Oklahoma City Thunder,FAUX,FAUX,"0,195121951219512",VRAI
+Golden State Warriors,Cleveland Cavaliers,58,24,"0,707317073170732",50,32,"0,609756097560976",Golden State Warriors,Cleveland Cavaliers,Houston Rockets,FAUX,FAUX,"0,097560975609756",VRAI
